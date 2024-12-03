@@ -25,7 +25,7 @@ This is an unordered list
 - item
 - item
 
-this is an ordered lisy
+this is an ordered list
 
 1. item
 2. item
